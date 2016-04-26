@@ -1,3 +1,3 @@
 udacity Full Stack Foundation Puppy Shelter Python Project
 ==========================================================
-Puppy Shelter project using SQLLite
+Puppy Shelter project using SQLLite + Python
